@@ -1,0 +1,35 @@
+body{
+    background-color: rgba(67, 218, 22, 0.904);
+    width: 800px;
+    height: 100px;
+    opacity: 90%;
+}
+form{
+    border: solid;
+    border-radius: 15px;
+    position: relative;
+    margin-left: 300px;
+   text-align: center;
+   padding: 20px;
+   width: 40%;
+    height: 299%;
+    background-color: rgba(128, 128, 128, 0.226);
+}
+.imagen{
+    position: relative;
+    left: 450px;
+}
+input{
+    padding: 5px;
+    margin: 15px;
+    width: 80%;
+    border-radius: 12px;
+}
+button{
+    background-color: darkgreen;
+    padding: 5px;
+    color: white;
+    margin-top: 50px;
+    width: 100px;
+}
+
